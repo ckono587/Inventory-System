@@ -1,0 +1,3 @@
+01 Stapler 1 3
+02 Pen 2 81
+03 Paper 4 63
